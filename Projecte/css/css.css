@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+
+.navbar{
+    background: red;
+}
+
+body{
+    background-image: url("../img/fondo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+img{
+    width: 250px;
+    height: 200px;
+}
+
+
+
+table{
+    width: 60%;
+    height: 20%;
+    border: 5px;
+   
+}
+
+td{
+    margin-right: 80%;
+    margin:80%;
+    /*border-spacing: 50px;
+    width: 10px;*/
+}
+
+#cesta{
+    display:block;
+    margin:auto;
+    width: 200px;
+    height: 200px;
+}
+
+input#cesta{
+    width: 200px;
+    height: 200px;
+}
